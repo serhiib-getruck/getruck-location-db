@@ -1,0 +1,52 @@
+{
+  "session": {
+    "id": "b0c74718-9871-4e3f-9b79-80497bef4c2f",
+    "startedAt": "2026-06-13T08:12:53.484Z",
+    "endedAt": "2026-06-13T08:13:59.544Z",
+    "durationMs": 66060,
+    "tickCount": 34,
+    "avgShadowErrorM": 81.38235294117646,
+    "maxShadowErrorM": 257,
+    "avgGpsQuality": 88.08823529411765,
+    "avgGpsAccuracy": 10.603512726656547,
+    "startLat": 50.527572476506165,
+    "startLon": 30.51641446050534,
+    "endLat": 50.5239559220877,
+    "endLon": 30.514995352554973,
+    "totalGpsDistanceM": 454.8445213550591,
+    "totalDrStepDistanceM": 422.03621732888206,
+    "dominantMotionState": "driving",
+    "gpsMovingPct": 58.82352941176471,
+    "imuMovingPct": 100
+  },
+  "drAnalysis": {
+    "avgErrorM": 81.38235294117646,
+    "medianErrorM": 54,
+    "p90ErrorM": 219,
+    "maxErrorM": 257,
+    "minErrorM": 3,
+    "reanchorCount": 2,
+    "avgSpeedMps": 6.2064149607188535,
+    "maxSpeedMps": 9.434267044057068,
+    "totalDrDistanceM": 422.03621732888206,
+    "totalGpsDistanceM": 454.8445213550591
+  },
+  "headingSource": {
+    "gyroTicks": 34,
+    "compassTicks": 0,
+    "noHeadingTicks": 0,
+    "gyroPct": 100,
+    "compassPct": 0
+  },
+  "motionBreakdown": {
+    "driving": 34
+  },
+  "gpsStats": {
+    "avgAccuracy": 10.603512726656547,
+    "minAccuracy": 2.6647117947260726,
+    "maxAccuracy": 103.99568198300946,
+    "avgQuality": 88.08823529411765,
+    "speedAvailable": 100,
+    "headingAvailable": 58.82352941176471
+  }
+}
